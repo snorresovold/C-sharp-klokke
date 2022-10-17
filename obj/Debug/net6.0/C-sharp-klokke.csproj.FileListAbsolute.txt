@@ -1,0 +1,15 @@
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\C-sharp-klokke.csproj.AssemblyReference.cache
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\C-sharp-klokke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\C-sharp-klokke.AssemblyInfoInputs.cache
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\C-sharp-klokke.AssemblyInfo.cs
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\C-sharp-klokke.csproj.CoreCompileInputs.cache
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\bin\Debug\net6.0\C-sharp-klokke.exe
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\bin\Debug\net6.0\C-sharp-klokke.deps.json
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\bin\Debug\net6.0\C-sharp-klokke.runtimeconfig.json
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\bin\Debug\net6.0\C-sharp-klokke.dll
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\bin\Debug\net6.0\C-sharp-klokke.pdb
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\C-sharp-klokke.dll
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\refint\C-sharp-klokke.dll
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\C-sharp-klokke.pdb
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\C-sharp-klokke.genruntimeconfig.cache
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-klokke\obj\Debug\net6.0\ref\C-sharp-klokke.dll

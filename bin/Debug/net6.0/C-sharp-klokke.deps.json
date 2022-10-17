@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C-sharp-klokke/1.0.0": {
+        "runtime": {
+          "C-sharp-klokke.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C-sharp-klokke/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
