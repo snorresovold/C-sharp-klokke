@@ -1,6 +1,4 @@
-﻿Clock clock = new Clock(50, 59, 23);
-
-
+﻿Clock clock = new Clock(10, 23, 22);
 while (true) {
     clock.tick();
     Console.WriteLine(clock.numToString());

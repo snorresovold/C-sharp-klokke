@@ -13,16 +13,16 @@ class Clock
 
     public Clock(int clSecond, int clMinute, int clHour)
     {
-        second = clSecond;
-        minute = clMinute;
-        hour = clHour;
+        setSecond(clSecond);
+        setMinute(clMinute);
+        setHour(clHour);
     }
 
     public void setSecond(int newSecond)
     {
         if (newSecond > 60 || newSecond < 0)
         {
-            throw new Exception("Dette er ikke en gyldig verdi for second.");
+            throw new Exception(newSecond + " Er ikke en gyldig verdi for second.");
         }
         second = newSecond;
     }
@@ -43,7 +43,7 @@ class Clock
     {
         if (newMinute > 60 || newMinute < 0)
         {
-            throw new Exception("Dette er ikke en gyldig verdi for minutt.");
+            throw new Exception(newMinute + " Er ikke en gyldig verdi for minute.");
         }
         minute = newMinute;
     }
@@ -64,7 +64,7 @@ class Clock
     {
         if (newHour > 24 || newHour < 0)
         {
-            throw new Exception("Dette er ikke en gyldig verdi for time.");
+            throw new Exception(newHour + " Er ikke en gyldig verdi for hour.");
         }
         hour = newHour;
     }
